@@ -11,7 +11,7 @@
 	$(document).ready(function(){
 	
                 //$(".banner-image").backstretch('images/banner.jpg');
-		$(".banner-image").backstretch('images/IMG_2332.JPG');
+		$(".banner-image").backstretch('images/IMG_6627.JPG');
 		
 		// Fixed header
 		//-----------------------------------------------
